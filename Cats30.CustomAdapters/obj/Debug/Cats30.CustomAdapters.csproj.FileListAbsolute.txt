@@ -1,0 +1,17 @@
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\bin\Debug\Cats30.CustomAdapters.dll
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\bin\Debug\Cats30.CustomAdapters.pdb
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\bin\Debug\Cats30.CustomAdapters.apk
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\bin\Debug\Cats30.CustomAdapters-Signed.apk
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\bin\Debug\Cats30.Entities.dll
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\bin\Debug\Cats30.Entities.pdb
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\obj\Debug\Cats30.CustomAdapters.csprojResolveAssemblyReference.cache
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\obj\Debug\Cats30.CustomAdapters.dll
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\obj\Debug\Cats30.CustomAdapters.pdb
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\obj\Debug\android\bin\Cats30.CustomAdapters.apk
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\obj\Debug\res\values\strings.xml
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\obj\Debug\R.cs.flag
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\obj\Debug\uploadflags.txt
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\obj\Debug\Cats30.CustomAdapters.dll.mdb
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\bin\Debug\Cats30.CustomAdapters.dll.mdb
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\obj\Debug\Cats30.CustomAdapters.dll.mdb
+D:\Proyectos\Diplomado30\Cats30\Cats30.CustomAdapters\bin\Debug\Cats30.CustomAdapters.dll.mdb

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="ApplicationName">Cats 3.0</string>
+    <string name="btnButtonText">Go to Web Site</string>
+    <string name="txtCatsTextView">List of Cats</string>
+</resources>

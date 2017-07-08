@@ -1,0 +1,14 @@
+D:\Proyectos\Diplomado30\Cats30\Cats30.Entities\bin\Debug\Cats30.Entities.dll
+D:\Proyectos\Diplomado30\Cats30\Cats30.Entities\bin\Debug\Cats30.Entities.pdb
+D:\Proyectos\Diplomado30\Cats30\Cats30.Entities\bin\Debug\Cats30.Entities.apk
+D:\Proyectos\Diplomado30\Cats30\Cats30.Entities\bin\Debug\Cats30.Entities-Signed.apk
+D:\Proyectos\Diplomado30\Cats30\Cats30.Entities\obj\Debug\Cats30.Entities.dll
+D:\Proyectos\Diplomado30\Cats30\Cats30.Entities\obj\Debug\Cats30.Entities.pdb
+D:\Proyectos\Diplomado30\Cats30\Cats30.Entities\obj\Debug\android\bin\Cats30.Entities.apk
+D:\Proyectos\Diplomado30\Cats30\Cats30.Entities\obj\Debug\res\values\strings.xml
+D:\Proyectos\Diplomado30\Cats30\Cats30.Entities\obj\Debug\R.cs.flag
+D:\Proyectos\Diplomado30\Cats30\Cats30.Entities\obj\Debug\uploadflags.txt
+D:\Proyectos\Diplomado30\Cats30\Cats30.Entities\obj\Debug\Cats30.Entities.dll.mdb
+D:\Proyectos\Diplomado30\Cats30\Cats30.Entities\bin\Debug\Cats30.Entities.dll.mdb
+D:\Proyectos\Diplomado30\Cats30\Cats30.Entities\obj\Debug\Cats30.Entities.dll.mdb
+D:\Proyectos\Diplomado30\Cats30\Cats30.Entities\bin\Debug\Cats30.Entities.dll.mdb
